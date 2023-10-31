@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **himanshusha23@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/14bg1vvo8TmqD3xzKQWsIOGM2Chd0hUXO/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/14bg1vvo8TmqD3xzKQWsIOGM2Chd0hUXO/view?usp=sharing">Click Here</a>👈
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
