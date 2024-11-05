@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/_ihimanshu_pvt" target="blank"><img src="https://img.shields.io/twitter/follow/_ihimanshu_pvt?logo=twitter&style=for-the-badge" alt="_ihimanshu_pvt" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Developement**
+- 🌱 I’m currently learning **BackEnd Development**
 
 - 👨‍💻 All of my projects are available at [PortFolio Website](https://ihimanshusharma.netlify.app/)
 
