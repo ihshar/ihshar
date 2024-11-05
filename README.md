@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://imhimanshu.me/](https://imhimanshu.me/)
+- 👨‍💻 All of my projects are available at [https://imhimanshu.me/](https://ihimanshusharma.netlify.app/)
 
 - 📝 I regularly write articles on Development
 
