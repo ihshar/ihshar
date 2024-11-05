@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on Development
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **FrontEnd Development**
 
 - 📫 How to reach me **himanshusha23@gmail.com**
 
